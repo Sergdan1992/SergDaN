@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serhii Danilchenko!</h1>
+<h1 align="center">Hi 👋, I'm Serhii Danylchenko!</h1>
 <h3 align="center">A purposeful frontend developer from Ukraine!</h3>
 
 <p align="left"> <a href="https://twitter.com/sergdan1992" target="blank"><img src="https://img.shields.io/twitter/follow/sergdan1992?logo=twitter&style=for-the-badge" alt="sergdan1992" /></a> </p>
